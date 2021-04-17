@@ -1,0 +1,13 @@
+.app__body{
+display: flex;
+}
+.messageSender__bottom{
+    display: flex;
+}
+.app{
+    background-color: #f1f2f5;
+    height: 100vh;
+}
+.widgets{
+    display: flex;
+}
